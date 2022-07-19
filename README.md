@@ -5,7 +5,11 @@
 
 I'm Chris from Canada, and I do Development Design, and CyberSecurity Software. I especially enjoy working with JavaScript, React, Tailwind, and anything Web Dev related.
 
-## Skills:  ### REACT / JS / HTML / CSS / Shell Scripting / Python 
+## Skills:  JS / HTML / CSS 
+* ⚛ React
+* 🔐Shell Scripting
+* 🐍Python
+* 💻HTML, CSS, JS
 
 - 🔭 I’m currently working on My own Freelancing Business 
 - 🌱 I’m currently learning Full Stack Web Design 
