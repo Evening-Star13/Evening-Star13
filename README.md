@@ -9,9 +9,9 @@ I'm Chris from Canada, and I do Development Design, and CyberSecurity Software. 
 * <img src="https://github.com/Evening-Star13/Evening-Star13/blob/main/reactts-svgrepo-com.svg" width="28"> React
 * <img src="https://github.com/Evening-Star13/Evening-Star13/blob/main/html5.svg" width="28"> HTML
 * <img src="https://github.com/Evening-Star13/Evening-Star13/blob/main/css3.svg" width="28"> CSS
-* <img src="https://github.com/Evening-Star13/Evening-Star13/blob/main/javascript-svgrepo-com.svg" width="21"> JS
-* <img src="https://github.com/Evening-Star13/Evening-Star13/blob/main/python-svgrepo-com.svg" width="21"> Python
-* <img src="https://github.com/Evening-Star13/Evening-Star13/blob/main/gnubash-svgrepo-com.svg" width="25"> Bash Shell Script
+* <img src="https://github.com/Evening-Star13/Evening-Star13/blob/main/javascript-svgrepo-com.svg" width="21">  JS
+* <img src="https://github.com/Evening-Star13/Evening-Star13/blob/main/python-svgrepo-com.svg" width="21">  Python
+* <img src="https://github.com/Evening-Star13/Evening-Star13/blob/main/gnubash-svgrepo-com.svg" width="28"> Bash Shell Script
 
 
 
