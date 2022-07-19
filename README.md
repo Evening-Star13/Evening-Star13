@@ -1,5 +1,13 @@
-### Hi there 👋
+### Hi there 👋, my name is Chris Barranger
+#### Web Dev and Cyber Security
+![Web Dev and Cyber Security](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-I'm Chris from Canada, and I do Development Design, and CyberSecurity Software. I especially enjoy working with JavaScript, React, Tailwind, and anything Web Dev related. You can visit me at https://twitter.com/EveningStar13_ and https://www.instagram.com/EveningStar_13
+I'm Chris from Canada, and I do Development Design, and CyberSecurity Software. I especially enjoy working with JavaScript, React, Tailwind, and anything Web Dev related.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Evening-Star13)](https://github.com/anuraghazra/github-readme-stats)
+Skills: REACT / JS / HTML / CSS / Shell Scripting / Python
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
