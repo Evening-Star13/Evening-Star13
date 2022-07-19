@@ -6,6 +6,8 @@ I'm Chris from Canada, and I do Development Design, and CyberSecurity Software. 
 
 Skills: REACT / JS / HTML / CSS / Shell Scripting / Python
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 - 🔭 I’m currently working on this page. 
 
 
