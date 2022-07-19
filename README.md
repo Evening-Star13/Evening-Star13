@@ -10,11 +10,8 @@ I'm Chris from Canada, and I do Development Design, and CyberSecurity Software. 
 * 🔐Shell Scripting
 * 🐍Python
 * 💻HTML, CSS, JS
-https://worldvectorlogo.com/logo/html-1
 
-- 🔭 I’m currently working on My own Freelancing Business 
-- 🌱 I’m currently learning Full Stack Web Design 
-- 📫 How to reach me: ChrisBarranger@techie.com 
+
 
 
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>
@@ -26,7 +23,9 @@ https://worldvectorlogo.com/logo/html-1
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Evening-Star13&show_icons=true&theme=midnight-purple)
 
-
+- 🔭 I’m currently working on My own Freelancing Business 
+- 🌱 I’m currently learning Full Stack Web Design 
+- 📫 How to reach me: ChrisBarranger@techie.com 
 
 
 
