@@ -11,7 +11,7 @@ I'm Chris from Canada, and I do Development Design, and CyberSecurity Software. 
 * 🐍Python
 * <img src="https://github.com/Evening-Star13/Evening-Star13/blob/main/html5.svg" width="25"> HTML, CSS, JS
 
-* <img src="[[https://github.com/Evening-Star13/Evening-Star13/blob/main/bash.jpg](https://github.com/Evening-Star13/Evening-Star13/blob/main/gnubash-svgrepo-com.svg)](https://github.com/Evening-Star13/Evening-Star13/blob/main/python-svgrepo-com.svg)" width="25"> Python
+* <img src="https://github.com/Evening-Star13/Evening-Star13/blob/main/python-svgrepo-com.svg" width="25"> Python
 
 
 
