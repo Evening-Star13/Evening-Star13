@@ -10,6 +10,7 @@ I'm Chris from Canada, and I do Development Design, and CyberSecurity Software. 
 * 🔐Shell Scripting
 * 🐍Python
 * 💻HTML, CSS, JS
+https://worldvectorlogo.com/logo/html-1
 
 - 🔭 I’m currently working on My own Freelancing Business 
 - 🌱 I’m currently learning Full Stack Web Design 
