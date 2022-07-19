@@ -11,7 +11,7 @@ I'm Chris from Canada, and I do Development Design, and CyberSecurity Software. 
 
 
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Evening-Star13&show_icons=true&theme=midnight-purple)
 
 
 
@@ -22,7 +22,7 @@ I'm Chris from Canada, and I do Development Design, and CyberSecurity Software. 
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Evening-Star13&show_icons=true&theme=midnight-purple)
+
 
 - 🔭 I’m currently working on My own Freelancing Business 
 - 🌱 I’m currently learning Full Stack Web Design 
