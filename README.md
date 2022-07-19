@@ -1,4 +1,4 @@
-![Web Dev and Cyber Security](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Web Dev and Cyber Security](https://github.com/Evening-Star13/Evening-Star13/blob/main/logo.PNG)
 
 ### Hi there 👋, my name is Chris Barranger
 #### Web Dev and Cyber Security
