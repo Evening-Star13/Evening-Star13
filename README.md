@@ -3,7 +3,7 @@
 ### Hi there 👋, my name is Chris Barranger
 #### Web Dev and Cyber Security
 
-I'm Chris from Canada, and I do Development Design, and CyberSecurity Software. I especially enjoy working with JavaScript, React, Tailwind, and anything Web Dev related.
+I'm Chris from Canada, and I do Development Design, and Cyber Security Software. I especially enjoy working with JavaScript, React, Tailwind, and anything Web Dev related.
 
 Skills: REACT / JS / HTML / CSS / Shell Scripting / Python
 
