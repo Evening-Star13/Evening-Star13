@@ -1,6 +1,6 @@
 ![Web Dev and Cyber Security](https://github.com/Evening-Star13/Evening-Star13/blob/main/logo.PNG)
 
-# Chris Barranger
+# Hello I'm Chris 
 ### Web Dev and Cyber Security
 
 I'm Chris from Canada, I am CyberSecurity Software Engineer. and a Freelance Web Designer. I especially enjoy working with JavaScript, React, Tailwind, and anything Web Developement related.
