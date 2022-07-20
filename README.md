@@ -12,7 +12,7 @@ I'm Chris from Canada, I am CyberSecurity Software Engineer. and a Freelance Web
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Evening-Star13&layout=compact&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api?username=Evening-Star13&repo=github-readme-stats&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 
 
 
