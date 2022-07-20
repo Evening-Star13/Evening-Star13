@@ -1,4 +1,4 @@
-![Web Dev and Cyber Security](https://github.com/Evening-Star13/Evening-Star13/blob/main/Logo1.jpg)
+![Web Dev and Cyber Security](https://github.com/Evening-Star13/Evening-Star13/blob/main/Logo2.jpg)
 
 # Hello I'm Chris 
 ### Web Dev and Cyber Security
