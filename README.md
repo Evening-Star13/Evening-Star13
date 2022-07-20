@@ -5,7 +5,7 @@
 
 I'm Chris from Canada, I am CyberSecurity Software Engineer. and a Freelance Web Designer. I especially enjoy working with JavaScript, React, Tailwind, and anything Web Developement related.
 
-## Skills:  JS / HTML / CSS 
+## Skills: 
 <img src="https://github.com/Evening-Star13/Evening-Star13/blob/main/reactts-svgrepo-com.svg" width="28"> React   <img src="https://github.com/Evening-Star13/Evening-Star13/blob/main/html5.svg" width="28">HTML    <img src="https://github.com/Evening-Star13/Evening-Star13/blob/main/css3.svg" width="28">CSS     <img src="https://github.com/Evening-Star13/Evening-Star13/blob/main/javascript-svgrepo-com.svg" width="21">  JavaScript    <img src="https://github.com/Evening-Star13/Evening-Star13/blob/main/gnubash-svgrepo-com.svg" width="28">   Bash Shell Script       <img src="https://github.com/Evening-Star13/Evening-Star13/blob/main/python-svgrepo-com.svg" width="21">    Python
 
 
