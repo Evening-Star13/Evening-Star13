@@ -1,4 +1,4 @@
-# Hello I'm Chris 💻
+# Hello I'm Chris 💻 🛰 🏕 🔐 🪂
 ![I am GitHub Readme Generator's creator](https://github.com/Evening-Star13/Evening-Star13/blob/main/cyber.png)
 
 
