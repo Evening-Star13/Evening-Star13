@@ -1,7 +1,5 @@
 # Hello I'm Chris 💻 🛰 🏕 🔐 🪂
 ![I am GitHub Readme Generator's creator](https://github.com/Evening-Star13/Evening-Star13/blob/main/hacked-hack.gif)
-![I am GitHub Readme Generator's creator](https://github.com/Evening-Star13/Evening-Star13/blob/main/count.gif)
-![I am GitHub Readme Generator's creator](https://github.com/Evening-Star13/Evening-Star13/blob/main/Count640Pixels.gif)
 
 
 ### Web Dev and Cyber Security
