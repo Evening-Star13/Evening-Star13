@@ -26,8 +26,8 @@ I'm Chris from Canada, I am CyberSecurity Software Engineer. and a Freelance Web
 
 
 
-- 🔭 I’m currently working on My own Freelancing Business 
-- 🌱 I’m currently learning Full Stack Web Design 
+- 🔭 I’m currently Freelancing 
+- 🌱 I’m currently relearning Full Stack Web Design 
 - 📫 How to reach me: ChrisBarranger@techie.com 
 
 
