@@ -30,7 +30,7 @@ I'm Chris from Canada, I am CyberSecurity Software Engineer. and a Freelance Web
 - 🌱 I’m currently relearning Full Stack Web Design 
 - 📫 How to reach me: ChrisBarranger@techie.com 
 
-![I am GitHub Readme Generator's creator](https://github.com/Evening-Star13/Porfolio-Card/blob/main/Card%20Of%20Me%202.png)
+![I am GitHub Readme Generator's creator](https://github.com/Evening-Star13/Porfolio-Card/blob/main/Card%20Of%20Me%203.png)
 
 
 
