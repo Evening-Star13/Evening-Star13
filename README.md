@@ -22,6 +22,8 @@
 
 - ⚡ Fun Fact: I love Hiking, Camping & Coding
 
+<hr>
+
 ## My Skill Set
 
 <div align="center">  
