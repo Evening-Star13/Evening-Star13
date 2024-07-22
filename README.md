@@ -1,4 +1,4 @@
-### HI there I'm Chris - aka The EveningStar. 😁
+### Hi 👋 there I'm Chris - aka The EveningStar. 😁
 
 ![I am GitHub Readme Generator's creator](https://github.com/Evening-Star13/Evening-Star13/blob/main/hacked-hack846px-290px.gif)
 
@@ -23,10 +23,9 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=evening-star13&theme=highcontrast" alt="evening-star13" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=evening-star13&show_icons=true&title_color=8c2fca&text_color=ffffff&locale=en&theme=highcontrast" alt="evening-star13" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=evening-star13&show_icons=true&title_color=8c2fca&text_color=ffffff&locale=en&theme=highcontrast" alt="evening-star13" /></p>
 <p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=evening-star13&show_icons=true&title_color=8c2fca&text_color=ffffff&locale=en&layout=compact&theme=highcontrast" alt="evening-star13" />
 </p>
-
 
 ![I am GitHub Readme Generator's creator](https://github.com/Evening-Star13/Porfolio-Card/blob/main/Card%20Of%20Me%203.png)
