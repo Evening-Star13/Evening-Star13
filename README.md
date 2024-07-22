@@ -25,6 +25,7 @@
 <hr>
 
 ### My Skill Set
+<hr>
 
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
@@ -53,7 +54,7 @@
 
 <div align="center">
 
-## Connect with me  
+### Connect with me  
 </div>
 
 <div align="center">
@@ -63,7 +64,7 @@
 
 <hr>
 
-## Github Stats  
+### Github Stats  
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=evening-star13&theme=highcontrast" alt="evening-star13" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=evening-star13&show_icons=true&title_color=8c2fca&text_color=ffffff&icon_color=8a2fca&locale=en&theme=highcontrast" alt="evening-star13" /></p>
