@@ -2,9 +2,9 @@
 
 ![I am GitHub Readme Generator's creator](https://github.com/Evening-Star13/Evening-Star13/blob/main/hacked-hack846px-290px.gif)
 
-<div align="center">
+<!-- <div align="center">
 <img src="" align="center" style="width: 100%" />
-</div>  
+</div>   -->
   
 ### I'm a Husband, Father, Developer & CyberSecurity Software Engineer!  
 ### <div align="center"></div>  
