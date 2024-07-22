@@ -9,7 +9,7 @@
 - 🥅 2024 Goals: Start a Tutorial Youtube Chanel
 - 💬 Ask me about anything Python/Cybersecurity
 - 📫 How to reach me: ChrisBarranger@techie.com
-- ⚡ Fun Fact: I love Hiking, Camping & Coding
+- ⚡ Fun Fact: I love Hiking, Camping
 
 ## Languages & Tools:
 
