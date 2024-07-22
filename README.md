@@ -29,4 +29,4 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=evening-star13&show_icons=true&title_color=8c2fca&text_color=ffffff&locale=en&layout=compact&theme=highcontrast" alt="evening-star13" />
 </p>
 
-![I am GitHub Readme Generator's creator](https://github.com/Evening-Star13/Porfolio-Card/blob/main/Card%20Of%20Me%203.png)
+<!-- ![I am GitHub Readme Generator's creator](https://github.com/Evening-Star13/Porfolio-Card/blob/main/Card%20Of%20Me%203.png) -->
