@@ -12,7 +12,7 @@
   
 - 🔭 I’m currently working on AI Driven RPG  
   
-- 🌱 I’m currently new security software  
+- 🌱 I’m currently working on new security software  
   
 - 🥅 2024 Goals: Start a Tutorial Youtube Chanel  
 
