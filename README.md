@@ -68,11 +68,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=evening-star13&theme=highcontrast" alt="evening-star13" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=evening-star13&show_icons=true&title_color=8c2fca&text_color=ffffff&icon_color=8a2fca&locale=en&theme=highcontrast" alt="evening-star13" /></p>
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=evening-star13&show_icons=true&title_color=8c2fca&text_color=ffffff&locale=en&layout=compact&theme=highcontrast" alt="evening-star13" />
-</p>
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evening-star13&langs_count=20&title_color=8c2fca&text_color=ffffff&locale=en&layout=compact&theme=highcontrast" alt="EveningStars Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evening-star13&langs_count=20&title_color=8c2fca&text_color=ffffff&locale=en&theme=highcontrast" alt="EveningStars Languages" />
 </div>
 
 <!-- ![I am GitHub Readme Generator's creator](https://github.com/Evening-Star13/Porfolio-Card/blob/main/Card%20Of%20Me%203.png) -->
