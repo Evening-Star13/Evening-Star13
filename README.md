@@ -66,7 +66,7 @@
 
 ### Github Stats  
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=evening-star13&theme=highcontrast)](https://git.io/streak-stats)
+<img align="center"(https://github-readme-streak-stats.herokuapp.com?user=evening-star13&theme=highcontrast)](https://git.io/streak-stats)>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=evening-star13&show_icons=true&title_color=8c2fca&text_color=ffffff&icon_color=8a2fca&locale=en&theme=highcontrast" alt="evening-star13" /></p>
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evening-star13&langs_count=20&title_color=8c2fca&text_color=ffffff&locale=en&theme=highcontrast" alt="EveningStars Languages" />
