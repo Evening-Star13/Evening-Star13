@@ -72,7 +72,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evening-star13&langs_count=20&title_color=8c2fca&text_color=ffffff&locale=en&theme=highcontrast" alt="EveningStars Languages" />
 </div>
 <div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=evening-star13&title_color=8c2fca&text_color=ffffff&locale=en&theme=radical" alt="Hoang Son's GitHub Achievements" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=evening-star13&title_color=8c2fca&text_color=ffffff&locale=en&theme=radical" alt="EveningStars GitHub Achievements" />
 </div>
 
 <!-- ![I am GitHub Readme Generator's creator](https://github.com/Evening-Star13/Porfolio-Card/blob/main/Card%20Of%20Me%203.png) -->
